@@ -43,7 +43,6 @@ python3 -m venv venv && source venv/bin/activate
 ```python
  python3 server.py
 ```
-4. Hurray!!.. Donote Blood.
 
 
 
